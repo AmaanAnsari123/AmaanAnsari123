@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @AmaanAnsari123
-- 👀 I’m interested in coding, machine learning and App devlopment. I use C++ for problem solving .
-- 🌱 I’m currently learning android development and DSA.
-- 💞️ I’m looking to collaborate on work.
-- 📫 How to reach me : amaan.ansari@iitgn.ac.in
+👋 Hi, I’m @AmaanAnsari123
+📊 Data Analyst | Analytics & ML Enthusiast
 
-<!---
-AmaanAnsari123/AmaanAnsari123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in data analytics, machine learning, and data-driven problem solving
+
+🧠 Strong in Python, SQL, Excel, Power BI, and statistical analysis
+
+📈 Experienced in EDA, feature engineering, predictive modeling, and dashboarding
+
+💻 I use Python & C++ for analytical problem solving and algorithmic thinking
+
+🌱 Currently learning advanced analytics, ML deployment, and DSA
+
+🤝 Open to collaborating on analytics, ML, and data visualization projects
+
+📫 Reach me at: amaan.ansari@iitgn.ac.in
